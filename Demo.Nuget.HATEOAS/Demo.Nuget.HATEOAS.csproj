@@ -8,7 +8,7 @@
     <Description>Projeto demo criado no curso sobre pacotes Nugets (Udemy)</Description>
     <RepositoryUrl>https://github.com/rms2307/Nuget.HATEOAS</RepositoryUrl>
     <PackageTags>HATEOAS</PackageTags>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>]
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>8.0.204.0</Version>
   </PropertyGroup>
 
