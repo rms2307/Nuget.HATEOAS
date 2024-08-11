@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Demo.Nuget.HATEOAS.Hypermedia.Abstract
+﻿namespace Demo.Nuget.HATEOAS.Hypermedia.Abstract
 {
     public interface ISupportsHyperMedia
     {

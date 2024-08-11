@@ -1,8 +1,4 @@
 ﻿using Demo.Nuget.HATEOAS.Hypermedia.Abstract;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Demo.Nuget.HATEOAS.Hypermedia.Utils
 {

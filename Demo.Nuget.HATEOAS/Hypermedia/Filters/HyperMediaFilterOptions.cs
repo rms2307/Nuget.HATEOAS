@@ -1,5 +1,4 @@
 ﻿using Demo.Nuget.HATEOAS.Hypermedia.Abstract;
-using System.Collections.Generic;
 
 namespace Demo.Nuget.HATEOAS.Hypermedia.Filters
 {
